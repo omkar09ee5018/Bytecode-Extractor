@@ -1,0 +1,15 @@
+CONSTANT POOL
+CONSTANT_Methodref: 0003 000c
+CONSTANT_Class_info: 000d
+CONSTANT_Class_info: 000e
+CONSTANT_Utf8: 6 <init>
+CONSTANT_Utf8: 3 ()V
+CONSTANT_Utf8: 4 Code
+CONSTANT_Utf8: 15 LineNumberTable
+CONSTANT_Utf8: 4 main
+CONSTANT_Utf8: 22 ([Ljava/lang/String;)V
+CONSTANT_Utf8: 10 SourceFile
+CONSTANT_Utf8: 11 array1.java
+CONSTANT_NameAndType: 0004 0005
+CONSTANT_Utf8: 6 array1
+CONSTANT_Utf8: 16 java/lang/Object
